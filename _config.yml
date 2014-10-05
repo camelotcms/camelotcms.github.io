@@ -1,0 +1,11 @@
+# Site settings
+title: Camelot CMS
+email: CamelotCMS@gmail.com
+description: Camelot CMS.
+baseurl: ''
+url: 'http://camelotcms.github.io'
+twitter_username: CamelotCMS
+github_username:  CamelotCMS
+
+# Build settings
+markdown: kramdown
